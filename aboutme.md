@@ -11,11 +11,11 @@ Recently, we have started a new project about digitalization in education [EduC 
 
 Before joininig IUBH I was with
 
-* [Blue Yonder](blueyonder.com) where I was head of the Data Science Academy, lead the machine learning development team and lead and worked on various customer projects.
-* [CERN](cern.ch) As a Research Fellow, I worked on the trigger for the [LHCb](http://lhcb.web.cern.ch/) experiment and searched for new physics in the decay of B_s mesons decaying into two kaons.
-* [Cavendish HEP group](https://www.hep.phy.cam.ac.uk/) where I worked on the [RICH detector](https://lhcb-public.web.cern.ch/en/Detector/RICH-en.html) for the [LHCb](http://lhcb.web.cern.ch/) and searched for new physics in the decay of B_s mesons decaying into two kaons.
-* [Magdalene College](https://www.magd.cam.ac.uk/) in Cambridge where I was a Senior Research Fellow.
-* [https://www.trinhall.cam.ac.uk/](https://www.trinhall.cam.ac.uk/) where I was a postdoctoral research associate.
-* [Institut für Experimentelle Teilchenphysik](https://www.etp.kit.edu/) at KIT where I did my PhD in particle physics and my undergraduate studies at KIT.
+- [Blue Yonder](blueyonder.com) where I was head of the Data Science Academy, lead the machine learning development team and lead and worked on various customer projects.
+- [CERN](cern.ch) As a Research Fellow, I worked on the trigger for the [LHCb](http://lhcb.web.cern.ch/) experiment and searched for new physics in the decay of B_s mesons decaying into two kaons.
+- [Cavendish HEP group](https://www.hep.phy.cam.ac.uk/) where I worked on the [RICH detector](https://lhcb-public.web.cern.ch/en/Detector/RICH-en.html) for the [LHCb](http://lhcb.web.cern.ch/) and searched for new physics in the decay of B_s mesons decaying into two kaons.
+- [Magdalene College](https://www.magd.cam.ac.uk/) in Cambridge where I was a Senior Research Fellow.
+- [Trinity Hall](https://www.trinhall.cam.ac.uk/) in Cambridge where I was a postdoctoral research associate.
+- [Institut für Experimentelle Teilchenphysik](https://www.etp.kit.edu/) at KIT where I did my PhD in particle physics and my undergraduate studies at KIT.
 
 
