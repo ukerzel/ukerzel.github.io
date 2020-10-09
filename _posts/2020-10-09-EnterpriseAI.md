@@ -3,6 +3,7 @@ layout: post
 title: Enterprise AI
 subtitle: Integrating Artificial Intelligence into Business
 tags: [paper]
+cover-img: /assets/img/ai-5452104_1920.jpg
 comments: false
 ---
 
