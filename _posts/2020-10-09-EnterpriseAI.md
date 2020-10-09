@@ -7,7 +7,7 @@ comments: false
 ---
 
 My new paper on how to integrate artificial intelligence in companies was accepted by the journal "Applied Artificial Intelligence"
-Read the [paper](https://www.tandfonline.com/doi/abs/10.1080/08839514.2020.1826146?journalCode=uaai20] or the [pre-print](https://arxiv.org/abs/2009.11190)
+Read the [paper](https://www.tandfonline.com/doi/abs/10.1080/08839514.2020.1826146?journalCode=uaai20) or the [pre-print](https://arxiv.org/abs/2009.11190)
 
 ### Abstract
 Artificial Intelligence (AI) and Machine Learning have enormous potential to transform businesses and disrupt entire industry sectors. 
