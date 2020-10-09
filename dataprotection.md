@@ -1,4 +1,10 @@
 
+---
+layout: page
+title: Imprint
+subtitle: Datenschutzhinweise
+---
+
 # Datenschutzhinweise
 Allgemeiner Hinweis und Pflichtinformationen
 
@@ -11,7 +17,7 @@ Ulrich Kerzel
 Melatener Str. 141c 
 52074 Aachen
 
-Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
+Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. ä.).
 
 Widerruf Ihrer Einwilligung zur Datenverarbeitung
 
