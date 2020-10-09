@@ -19,7 +19,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-  Imprint : "dataprotection.md"
+  Imprint : "dataprotection"
 
 # --- Logo --- #
 
@@ -41,9 +41,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  #facebook: deanattali
+  github: ukerzel
+  twitter: ukerzel
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -72,7 +72,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
