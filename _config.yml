@@ -40,7 +40,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "u.kerzel _ at _ iubh-fernstudium.de"
+  email: "u.kerzel _ <> _ iubh-fernstudium.de"
   #facebook: deanattali
   github: ukerzel
   twitter: ukerzel
@@ -72,7 +72,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: false
-  linkedin: false
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
