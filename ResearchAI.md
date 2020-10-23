@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research in Data Science and AI
+---
+
 ## Table of contents
 
 - [Data Science and Artificial Intelligence](#data-science-and-artificial-intelligence)
