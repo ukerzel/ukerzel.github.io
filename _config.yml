@@ -16,7 +16,7 @@ author: Ulrich Kerzel
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Data Science & Artrificial Intelligence : "ResearchAI"
+    - Data Science & AI : "ResearchAI"
     - MaterialsAI: "MaterialAI"
   #Author's home: "https://deanattali.com"
   Imprint : "dataprotection"
