@@ -3,7 +3,7 @@ layout: post
 title: Deep Learning in Steel Analysis
 subtitle: Analysis of damage sites using AI
 tags: [paper]
-cover-img: /assets/img/radio-1948011_1920
+cover-img: /assets/img/pexels-pixabay-290453.jpg
 comments: false
 ---
 
