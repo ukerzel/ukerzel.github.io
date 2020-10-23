@@ -15,9 +15,9 @@ author: Ulrich Kerzel
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research:
+    - Data Science & Artrificial Intelligence : "ResearchAI"
+    - MaterialsAI: "MaterialAI"
   #Author's home: "https://deanattali.com"
   Imprint : "dataprotection"
 
