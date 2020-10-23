@@ -19,4 +19,18 @@ Companies in particular face many challenges implementing AI in their organizati
 
 # Algorithms
 
+Data Science and AI are driven by the underlying algorithms that are used to transform data into predictions.
+
+The [NeuroBayes](https://www.sciencedirect.com/science/article/pii/S0168900205022679) neural network package (developed with Prof. Dr. M. Feindt) is a sophisticated 3-layer feed-forward network that can be used either for classification or for regression. It's main advantages are that it does not overtrain and, in case of regression, can predict entire probability density distributions. These distributions include all information about the predicted event, including the uncertainty.
+
+Most machine learning algorithms are "black boxes" in the sense that individual predictions cannot be understood in detail. The novel algorithm Cyclic Boosting [Journal](https://ieeexplore.ieee.org/document/8999347) [Preprint](https://arxiv.org/abs/2002.03425) (with Dr. F. Wick and Prof. Dr. M. Feindt) allows to calculate accurate precisions where the underlying "factors" for each prediction can fully explain how individual predictions were made.
+
 # AI in Education
+
+I'm part of the [AI in Education](https://ai-in-education.de/home) initiative at IUBH where we focus on finding novel ways how AI technologies can aid the learning experience.
+Recently, the contribution "On Demand Tutoring in Distance Learning" by two of my Master's students was accepted at the conference "Educational Research
+(Re)connecting Communities" (ECER2020) - though unfortunately, the conference itself was cancelled due to Covid-19.
+
+Please get in touch if you would like to start a thesis topic in this area!
+
+Together with Prof. A. Hollstein, we also start a survey about the digitalization in German schools [EduC](https://www.iubh-university.de/forschung/educ-kompass-digitale-bildung/)
