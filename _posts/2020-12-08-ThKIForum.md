@@ -2,7 +2,7 @@
 layout: post
 title: Zweites Thueringer KI Forum 
 subtitle: Enterprise AI - Wertschoepfung mit AI in der Wirtschaft
-tags: [paper]
+tags: [Presentation]
 cover-img: /assets/img/ai-5452104_1920.jpg
 comments: false
 ---
