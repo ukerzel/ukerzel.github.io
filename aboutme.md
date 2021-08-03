@@ -4,7 +4,7 @@ title: About me
 subtitle: Find out who I am
 ---
 
-Hi, I'm Ulrich Kerzel and am Professor for Data Science and Artificial Intelligence at [IU International University of Applied Sciences](https://www.iu.org), where I am the director of the [Master in Artificial Intelligence](https://https://www.iu-fernstudium.de/master/artificial-intelligence/).
+Hi, I'm Ulrich Kerzel and am Professor for Data Science and Artificial Intelligence at [IU International University of Applied Sciences](https://www.iu.org), where I am the director of the [Master in Artificial Intelligence](https://www.iu-fernstudium.de/master/artificial-intelligence/).
 
 My current research is focused on AI in materials research in cooperation with [IMM RWTH Aaachen](https://www.imm.rwth-aachen.de/index.php?id=2&L=1), helping companies to create value using AI and am part of the research group [AI in education](https://ai-in-education.de/) at IUBH.
 Recently, we have started a new project about digitalization in education [EduC Kompass Digitale Bildung](https://www.iubh-university.de/forschung/educ-kompass-digitale-bildung/)
