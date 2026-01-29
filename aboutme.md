@@ -4,18 +4,25 @@ title: About me
 subtitle: Find out who I am
 ---
 
-Hi, I'm Ulrich Kerzel and am Professor for Data Science and Artificial Intelligence at [IU International University of Applied Sciences](https://www.iu.org), where I am the director of the [Master in Artificial Intelligence](https://www.iu-fernstudium.de/master/artificial-intelligence/).
+Hi, I'm Ulrich Kerzel. I am currently an apl. Professor and the Dean of Studies (Studiendekan) at the Faculty of Georesources and Materials Engineering at **RWTH Aachen University**.
 
-My current research is focused on AI in materials research in cooperation with [IMM RWTH Aaachen](https://www.imm.rwth-aachen.de/index.php?id=2&L=1), helping companies to create value using AI and am part of the research group [AI in education](https://ai-in-education.de/) at IUBH.
-Recently, we have started a new project about digitalization in education [EduC Kompass Digitale Bildung](https://www.iubh-university.de/forschung/educ-kompass-digitale-bildung/)
+# Research and Work Experience
 
-Before joininig IUBH I was with
+- **2024 – Present**: apl. Professor at the Faculty of Georesources and Materials Engineering, RWTH Aachen University.
+- **2024 – Present**: Dean of Studies (Studiendekan) at the Faculty of Georesources and Materials Engineering, RWTH Aachen University.
+- **2022 – Present**: Research Group Leader "Data Science & Artificial Intelligence" at the Faculty of Georesources and Materials Engineering, RWTH Aachen University.
+- **2018 – 2022**: Professor of Data Science and Artificial Intelligence at IU International University of Applied Science. Disciplinary responsibility for 45 professors in the faculty "IT & Technology".
+- **2017 – 2018**: Vice President Data Science at RWTH Aachen Business School GmbH. Development of a new Master program in Data and Decision Science (MME-DDS) and business development for continuing education.
+- **2012 – 2017**: Principal Data Scientist at Blue Yonder GmbH. R&D in Data Science & Artificial Intelligence, Team-Lead "Machine Learning Research", and Head of business unit "Data Science Academy".
+- **2010 – 2012**: Research Fellowship at CERN, Geneva, Switzerland.
+- **2008 – 2010**: Senior Research Fellow at Magdalene College, Cambridge, UK.
+- **2007 – 2008**: Postdoctoral Associate at Trinity Hall, Cambridge, UK.
+- **2006 – 2010**: Research Associate with the LHCb Experiment in the High Energy Physics Group at the Cavendish Laboratory, University of Cambridge, UK.
+- **2005 – 2006**: Post-Doc with the CDF and CMS Experiment at the Institut für Experimentelle Kernphysik, University of Karlsruhe, Germany.
 
-- [Blue Yonder](https://blueyonder.com) where I was head of the Data Science Academy, lead the machine learning development team and lead and worked on various customer projects.
-- [CERN](https://cern.ch) As a Research Fellow, I worked on the trigger for the [LHCb](http://lhcb.web.cern.ch/) experiment and searched for new physics in the decay of B_s mesons decaying into two kaons.
-- [Cavendish HEP group](https://www.hep.phy.cam.ac.uk/) where I worked on the [RICH detector](https://lhcb-public.web.cern.ch/en/Detector/RICH-en.html) for the [LHCb](http://lhcb.web.cern.ch/) and searched for new physics in the decay of B_s mesons decaying into two kaons.
-- [Magdalene College](https://www.magd.cam.ac.uk/) in Cambridge where I was a Senior Research Fellow.
-- [Trinity Hall](https://www.trinhall.cam.ac.uk/) in Cambridge where I was a postdoctoral research associate.
-- [Institut für Experimentelle Teilchenphysik](https://www.etp.kit.edu/) at KIT where I did my PhD in particle physics and my undergraduate studies at KIT. My [PhD thesis](assets/phdthesis_kerzel.pdf) was focused on two topics: Grid Computing and finding out more about the then newly discovered particle X(3872). Grid computing is, in a way, the academic predecessor to machine learning in the cloud such as Google cloud compute, Microsoft Azure, Amazon AWS and others but tailored towards fundamental research. Around the year 2000, we already had peta-bytes of data that needed to be analyzed on a global scale in computing facilities distributed around the world. I was part of the part of the project [SAM](https://cdcvs.fnal.gov/redmine/projects/sam/wiki) at [FermiLab](https://www.fnal.gov/) near Chicago and we developed a global system to handle this massive amout of data so that we could for example run neural networks on the experimental data around the globe to learn more about the fundamental particles in the universe.
+# Education & Background
+
+My [PhD thesis](assets/phdthesis_kerzel.pdf) at KIT was focused on Grid Computing and the X(3872) particle. Grid computing is the academic predecessor to modern cloud computing, tailored towards fundamental research. Around the year 2000, we already handled peta-bytes of data, developing global systems like [SAM](https://cdcvs.fnal.gov/redmine/projects/sam/wiki) at [FermiLab](https://www.fnal.gov/) to enable distributed neural network analysis.
+
 
 
